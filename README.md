@@ -2,6 +2,8 @@
 
 This project implements an image classification model to detect playing cards using PyTorch. The model is trained on a dataset of playing card images and can classify them into different categories.
 
+[👉 Run on Kaggle](https://www.kaggle.com/code/mounirassif/pytorch-card-classifier-accuracy-96)
+
 ## Project Structure
 
 ```
@@ -27,6 +29,9 @@ card_classification
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install the required dependencies using the following command:
+4. Alternatively, run the notebook directly online:
+
+👉 Use the Kaggle link to explore and run it on Kaggle
 
    ```
    pip install -r requirements.txt
