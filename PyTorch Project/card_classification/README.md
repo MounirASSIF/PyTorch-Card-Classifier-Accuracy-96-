@@ -38,7 +38,7 @@ card_classification
  
 3. Alternatively, run the notebook directly online:
 
-👉 Use the Kaggle link to explore and run it on Kaggle : [👉 Run on Kaggle](https://www.kaggle.com/code/mounirassif/pytorch-card-classifier-accuracy-96)
+👉 Use the Kaggle link to explore and run it on Kaggle: [👉 Run on Kaggle](https://www.kaggle.com/code/mounirassif/pytorch-card-classifier-accuracy-96)
 
 ## License
 
