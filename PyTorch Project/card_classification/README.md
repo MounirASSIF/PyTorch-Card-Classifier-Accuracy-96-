@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/20967793/README.1.md)# Card Classification Project
+# Card Classification Project
 
 This project implements an image classification model to detect playing cards using PyTorch. The model is trained on a dataset of playing card images and can classify them into different categories.
 
