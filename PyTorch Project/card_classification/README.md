@@ -1,6 +1,8 @@
-# Card Classification Project
+[README (1).md](https://github.com/user-attachments/files/20967793/README.1.md)# Card Classification Project
 
 This project implements an image classification model to detect playing cards using PyTorch. The model is trained on a dataset of playing card images and can classify them into different categories.
+
+[👉 Run on Kaggle](https://www.kaggle.com/code/mounirassif/pytorch-card-classifier-accuracy-96)
 
 ## Project Structure
 
@@ -35,9 +37,16 @@ card_classification
 ## Usage
 
 1. Prepare your dataset of playing cards and place the images in the appropriate directories under `data/`.
+ 
 2. Use the Jupyter notebook `notebooks/card_classification.ipynb` to run the entire workflow, including data loading, model training, evaluation, and visualization of results.
+ 
 3. Modify the parameters in the notebook as needed to suit your specific requirements.
+ 
+4. Alternatively, run the notebook directly online:
+
+👉 Use the Kaggle link to explore and run it on Kaggle : [👉 Run on Kaggle](https://www.kaggle.com/code/mounirassif/pytorch-card-classifier-accuracy-96)
 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
