@@ -29,9 +29,6 @@ card_classification
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install the required dependencies using the following command:
-4. Alternatively, run the notebook directly online:
-
-👉 Use the Kaggle link to explore and run it on Kaggle
 
    ```
    pip install -r requirements.txt
@@ -42,6 +39,9 @@ card_classification
 1. Prepare your dataset of playing cards and place the images in the appropriate directories under `data/`.
 2. Use the Jupyter notebook `notebooks/card_classification.ipynb` to run the entire workflow, including data loading, model training, evaluation, and visualization of results.
 3. Modify the parameters in the notebook as needed to suit your specific requirements.
+4. Alternatively, run the notebook directly online:
+
+👉 Use the Kaggle link to explore and run it on Kaggle
 
 ## License
 
