@@ -37,8 +37,11 @@ card_classification
 ## Usage
 
 1. Prepare your dataset of playing cards and place the images in the appropriate directories under `data/`.
+ 
 2. Use the Jupyter notebook `notebooks/card_classification.ipynb` to run the entire workflow, including data loading, model training, evaluation, and visualization of results.
+ 
 3. Modify the parameters in the notebook as needed to suit your specific requirements.
+ 
 4. Alternatively, run the notebook directly online:
 
 👉 Use the Kaggle link to explore and run it on Kaggle : [👉 Run on Kaggle](https://www.kaggle.com/code/mounirassif/pytorch-card-classifier-accuracy-96)
